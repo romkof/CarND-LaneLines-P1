@@ -42,4 +42,4 @@ Another shortcoming could be ...
 
 A possible improvement would be to use slopes from previous frames to calculating slope for the last frame.
 
-Another potential improvement could be to use 
+Another potential improvement could be to use dynamically detection of region of interest using some machine learning techniques (Deep learning, SVM, etc.) 
